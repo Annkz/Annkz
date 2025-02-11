@@ -1,26 +1,59 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://sounter.com/_next/image?url=%2Fimages%2Fprogrammer.gif&w=1920&q=75">
+### Hi there!👋 Welcome to my GitHub account. Your presence here is greatly appreciated!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annkz&label=Profile%20views&color=0e75b6&style=flat" alt="annkz" /> </p>
+I'm Ankit Kumar, graduated Bachelor of Engineering. As a passionate computer science and engineering student, I have a deep love for software development and an unwavering excitement for contributing to open-source projects. I'm always looking for opportunities to learn and grow as a developer, and I believe that open-source contributions are the perfect way to do so.
 
-- 🌱 I’m currently learning **MERN stack**
+### Skills
+- **Programming Languages:**
+  <div>
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&color=7a736e">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+    <img alt="C" src="https://img.shields.io/badge/C-1C1C1C?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+    <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
-- 📫 How to reach me **ankitkeshri0727@gmail.com**
+  </div>
+- **Libraries/Frameworks:**
+  <div>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  </div>
+- **Tools/Platforms:**
+  <div>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankit-kumar-143297249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-143297249" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/annkit7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="annkit7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankitkeshri51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitkeshri51" height="30" width="40" /></a>
-</p>
+### Ongoing Skills
+  <div>
+<!--     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> -->
+    <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Let's Get in Touch
+I'm excited to connect with other developers and work together to make meaningful contributions to the community. So let's connect and explore how we can collaborate on some exciting open-source projects!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annkz&show_icons=true&locale=en&layout=compact" alt="annkz" /></p>
+  <div>
+    <a href="https://www.linkedin.com/in/ankittt999/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!--     <a href="https://twitter.com/adarshrpathak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitte"></a>                                                                                                             -->
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annkz&show_icons=true&locale=en" alt="annkz" /></p>
+### Thank you! 🙏 For stopping by and visiting my profile. It means a lot to me that you took the time to check it out.
+<img src="https://komarev.com/ghpvc/?username=adarshrajpathak" alt="profile views" />
+<!--
+**adarshrajpathak/adarshrajpathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annkz&" alt="annkz" /></p>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
